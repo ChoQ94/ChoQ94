@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?ChoQ94=ChoQ)
+![](https://komarev.com/ghpvc/?ChoQ=ChoQ94)
 
 ### 🛠 Languages and Tools
 
