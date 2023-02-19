@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?ChoQ=ChoQ94)
+[![Hits](https://hits.sh/github.com/ChoQ94.svg?label=welcome&color=fd1a6a)](https://hits.sh/github.com/ChoQ94/)
 
 ### 🛠 Languages and Tools
 
